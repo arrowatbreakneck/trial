@@ -1,0 +1,11 @@
+.boxpart{
+    background-color: gray;
+    margin: 15px 20px 15px 20px;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+.links{
+    text-decoration: underline;
+    color: blue;
+}
